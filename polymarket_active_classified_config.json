@@ -1,0 +1,15 @@
+{
+  "markets_per_category": 5,
+  "interval_hours": 0.5,
+  "lookback_days": 1,
+  "max_scan_offset": 2000,
+  "raw_csv": "polymarket_active_classified_raw_30m.csv",
+  "metadata_csv": "polymarket_active_classified_metadata.csv",
+  "features_csv": "polymarket_active_classified_features.csv",
+  "min_volume_num": 10000,
+  "min_liquidity_num": 1000,
+  "use_orderbook": false,
+  "cache_dir": ".cache/polymarket_active_classified",
+  "batch_chunk_size": 20,
+  "batch_concurrency": 4
+}

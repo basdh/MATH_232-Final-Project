@@ -1,0 +1,194 @@
+market_id,classifier_label,tag_slug,question,z1,z2,label_class_index,label_class
+1005343,Crypto,crypto,Puffpaw FDV above $50M one day after launch?,-0.02414475369627137,0.005847128288905218,1,Crypto
+1005344,Crypto,crypto,Puffpaw FDV above $100M one day after launch?,-0.024109711429620446,0.0058129336444123336,1,Crypto
+1032272,Finance,finance,"Will Gold (GC) hit (HIGH) $5,500 by end of June?",-0.024000727767103845,0.005780129753079174,2,Finance
+1057883,Crypto,crypto,"Will Bitcoin reach $250,000 by December 31, 2026?",-0.024000621755230628,0.005742667358116775,1,Crypto
+1057916,Crypto,crypto,"Will Bitcoin dip to $15,000 by December 31, 2026?",-0.024005451082042314,0.005746207402370622,1,Crypto
+1090199,Geopolitics,geopolitics,Will Reza Pahlavi enter Iran by June 30?,-0.024003223334958187,0.005738952497273797,3,Geopolitics
+1105750,Geopolitics,geopolitics,Will Pete Hegseth be the leader of Venezuela end of 2026?,-0.023993676854361348,0.005736947660375599,3,Geopolitics
+1105751,Geopolitics,geopolitics,Will Evan Pettus be the leader of Venezuela end of 2026?,-0.023993307515899506,0.005736750719390874,3,Geopolitics
+1105752,Geopolitics,geopolitics,Will Frank Donovan be the leader of Venezuela end of 2026?,-0.02399349123204957,0.005736736064879193,3,Geopolitics
+1105753,Geopolitics,geopolitics,Will Dan Caine be the leader of Venezuela end of 2026?,-0.02399295700824747,0.005736370994518072,3,Geopolitics
+1105754,Geopolitics,geopolitics,Will Richard Grenell be the leader of Venezuela end of 2026?,-0.023993652048435607,0.0057367106312136255,3,Geopolitics
+1126504,Geopolitics,geopolitics,Will the US acquire part of Greenland in 2026?,-0.024023765744057048,0.005765172198837041,3,Geopolitics
+1131170,Tech,tech,Human moon landing in 2026?,-0.02400498005033761,0.005742250451830073,7,Tech
+1144471,Crypto,crypto,Will Satoshi move any Bitcoin in 2026?,-0.024016202919768474,0.005750488791785786,1,Crypto
+1171663,Geopolitics,geopolitics,"Russia x Ukraine ceasefire by June 30, 2026?",-0.024011699622924033,0.005754822945302375,3,Geopolitics
+1203147,Business,business,Will Elon Musk buy Ryanair?,-0.023997138102930842,0.005735651757322774,0,Business
+1298649,Business,business,OpenAI IPO closing market cap above $1T?,-0.02408576077473827,0.005838108950410749,0,Business
+1302781,Crypto,crypto,Puffpaw FDV above $400M one day after launch?,-0.02402275578044777,0.005749124736215412,1,Crypto
+1339767,Crypto,crypto,"Will Bitcoin dip to $50,000 by December 31, 2026?",-0.024086167918296153,0.00578942726802665,1,Crypto
+1393068,Crypto,crypto,"Will Bitcoin reach $500,000 by December 31, 2026?",-0.02399725236769594,0.005740010100322955,1,Crypto
+1393070,Crypto,crypto,"Will Bitcoin reach $1,000,000 by December 31, 2026?",-0.023997569092304525,0.005739620283574439,1,Crypto
+1393318,Crypto,crypto,Predict.fun FDV above $200M one day after launch?,-0.024162087535344386,0.005859057447313694,1,Crypto
+1393319,Crypto,crypto,Predict.fun FDV above $300M one day after launch?,-0.024125865008343773,0.00584095372190988,1,Crypto
+1484987,Geopolitics,geopolitics,Netanyahu out by June 30?,-0.023999753479885335,0.005746067671410142,3,Geopolitics
+1540766,Geopolitics,geopolitics,Strait of Hormuz traffic returns to normal by end of April?,-0.02402169960939178,0.0057765079674976455,3,Geopolitics
+1707932,Geopolitics,geopolitics,Will the Iranian regime fall by May 31?,-0.023993971230929792,0.005744021595788404,3,Geopolitics
+1708109,Geopolitics,geopolitics,Kharg Island no longer under Iranian control by May 31?,-0.02401821250204319,0.005747717042101984,3,Geopolitics
+1720656,Tech,tech,Will SpaceX's market cap be between $2.5T and $3.0T at market close on IPO day?,-0.02405014838256081,0.0057599419167422864,7,Tech
+1808970,Geopolitics,geopolitics,US obtains Iranian enriched uranium by May 31?,-0.024002126781370137,0.005772681310587645,3,Geopolitics
+1809560,Geopolitics,geopolitics,Strait of Hormuz traffic returns to normal by end of May?,-0.024072599293201172,0.005877947982932642,3,Geopolitics
+1819243,Geopolitics,geopolitics,QatarEnergy announces/resumes LNG production in Qatar by April 30?,-0.024085351167302115,0.005815347873630886,3,Geopolitics
+1919425,Geopolitics,geopolitics,"US x Iran permanent peace deal by May 31, 2026?",-0.024089493166748573,0.00582423359449931,3,Geopolitics
+1962237,Geopolitics,geopolitics,"US x Iran permanent peace deal by June 30, 2026?",-0.0241310509506367,0.0058483591594984015,3,Geopolitics
+2054133,Geopolitics,geopolitics,Strait of Hormuz traffic returns to normal by May 15?,-0.02405269476906731,0.0058064180143598595,3,Geopolitics
+2088989,Crypto,crypto,Over $3M committed to the Printr public sale?,-0.02398092603052676,0.005806739304773,1,Crypto
+2099029,Geopolitics,geopolitics,"US x Iran permanent peace deal by May 15, 2026?",-0.024013950268767095,0.005732400052246441,3,Geopolitics
+540819,Pop culture,pop-culture,Will Jesus Christ return before GTA VI?,-0.024096968486072116,0.005820463051266208,5,Pop culture
+540844,Pop culture,pop-culture,Will bitcoin hit $1m before GTA VI?,-0.02409852590239372,0.005820625279141469,5,Pop culture
+540881,Pop culture,pop-culture,GTA VI released before June 2026?,-0.023995123832484228,0.005738572983974663,5,Pop culture
+553863,Sports,sports,Will the Los Angeles Lakers win the 2026 NBA Finals?,-0.024006059058571307,0.0057391019852108946,6,Sports
+553866,Sports,sports,Will the San Antonio Spurs win the 2026 NBA Finals?,-0.024018427805089,0.005768378280628158,6,Sports
+556108,Crypto,crypto,Will MegaETH perform an airdrop by June 30? ,-0.024001605020193138,0.005829909383190095,1,Crypto
+558934,Sports,sports,Will Spain win the 2026 FIFA World Cup?,-0.024023243251632687,0.005763988249038694,6,Sports
+558936,Sports,sports,Will France win the 2026 FIFA World Cup?,-0.024028509443660532,0.005762894992409238,6,Sports
+558940,Sports,sports,Will Portugal win the 2026 FIFA World Cup?,-0.024007095043248997,0.0057522919211145315,6,Sports
+558943,Sports,sports,Will USA win the 2026 FIFA World Cup?,-0.02399613821000909,0.005738716292257284,6,Sports
+558949,Sports,sports,Will Japan win the 2026 FIFA World Cup?,-0.02399813352931907,0.005740240316021364,6,Sports
+558952,Sports,sports,Will Canada win the 2026 FIFA World Cup?,-0.02399445098393321,0.005737415204393062,6,Sports
+558954,Sports,sports,Will Tunisia win the 2026 FIFA World Cup?,-0.023993804691253603,0.0057368932494168395,6,Sports
+558955,Sports,sports,Will Ecuador win the 2026 FIFA World Cup?,-0.02399481645185316,0.005737752499467157,6,Sports
+558956,Sports,sports,Will Paraguay win the 2026 FIFA World Cup?,-0.023994137460715412,0.005737257988001251,6,Sports
+558957,Sports,sports,Will New Zealand win the 2026 FIFA World Cup?,-0.02399358928616344,0.0057367192804307935,6,Sports
+558958,Sports,sports,Will Australia win the 2026 FIFA World Cup?,-0.02399334185112989,0.0057368553977737045,6,Sports
+558959,Sports,sports,Will Iran win the 2026 FIFA World Cup?,-0.023993508656421483,0.005736725662959273,6,Sports
+558960,Sports,sports,Will Uzbekistan win the 2026 FIFA World Cup?,-0.02399358928616344,0.0057367192804307935,6,Sports
+558961,Sports,sports,Will South Korea win the 2026 FIFA World Cup?,-0.023993985326491087,0.005736906810691461,6,Sports
+558962,Sports,sports,Will Jordan win the 2026 FIFA World Cup?,-0.02399358928616344,0.0057367192804307935,6,Sports
+558963,Sports,sports,Will Morocco win the 2026 FIFA World Cup?,-0.023996814019242092,0.005738709203349971,6,Sports
+558964,Sports,sports,Will South Africa win the 2026 FIFA World Cup?,-0.023993706628588064,0.005736910031203861,6,Sports
+558966,Sports,sports,Will Ivory Coast win the 2026 FIFA World Cup?,-0.023993913794547905,0.0057371278738599955,6,Sports
+558968,Sports,sports,Will Egypt win the 2026 FIFA World Cup?,-0.023994020109322743,0.005737067226452625,6,Sports
+558969,Sports,sports,Will Algeria win the 2026 FIFA World Cup?,-0.023993804691253603,0.0057368932494168395,6,Sports
+558970,Sports,sports,Will Cape Verde win the 2026 FIFA World Cup?,-0.02399342640166847,0.0057365913394649614,6,Sports
+558971,Sports,sports,Will Qatar win the 2026 FIFA World Cup?,-0.02399358928616344,0.0057367192804307935,6,Sports
+558972,Sports,sports,Will Saudi Arabia win the 2026 FIFA World Cup?,-0.023993706628588064,0.005736910031203861,6,Sports
+558973,Sports,sports,Will Scotland win the 2026 FIFA World Cup?,-0.023993922038182056,0.005737084005601233,6,Sports
+558976,Sports,sports,Will Croatia win the 2026 FIFA World Cup?,-0.023994585426298155,0.005737349224406735,6,Sports
+558978,Sports,sports,Will Curaçao win the 2026 FIFA World Cup?,-0.02399342640166847,0.0057365913394649614,6,Sports
+559651,Geopolitics,geopolitics,Xi Jinping out before 2027?,-0.024010170620980497,0.005751565179574314,3,Geopolitics
+559666,Politics,politics,Will Tim Walz win the 2028 Democratic presidential nomination?,-0.023994272342007548,0.0057377097002322,4,Politics
+559670,Politics,politics,Will Gina Raimondo win the 2028 Democratic presidential nomination?,-0.023994568344135492,0.005737605976528743,4,Politics
+559671,Politics,politics,Will Zohran Mamdani win the 2028 Democratic presidential nomination?,-0.02399478380478976,0.005737779982515857,4,Politics
+559677,Politics,politics,Will Hillary Clinton win the 2028 Democratic presidential nomination?,-0.02399480949370203,0.005737725697492219,4,Politics
+559678,Politics,politics,Will Liz Cheney win the 2028 Democratic presidential nomination?,-0.023994487798808604,0.005737883706673238,4,Politics
+559679,Politics,politics,Will Bernie Sanders win the 2028 Democratic presidential nomination?,-0.023994644740276832,0.005737677536378438,4,Politics
+559680,Politics,politics,Will Phil Murphy win the 2028 Democratic presidential nomination?,-0.023994568344135492,0.005737605976528743,4,Politics
+559681,Politics,politics,Will LeBron James win the 2028 Democratic presidential nomination?,-0.02399478380478976,0.005737779982515857,4,Politics
+559682,Politics,politics,Will Hunter Biden win the 2028 Democratic presidential nomination?,-0.023994223113933698,0.0057376180983037236,4,Politics
+559683,Politics,politics,Will George Clooney win the 2028 Democratic presidential nomination?,-0.023994272342007548,0.0057377097002322,4,Politics
+559684,Politics,politics,Will Chelsea Clinton win the 2028 Democratic presidential nomination?,-0.023995119415016888,0.005737537656535318,4,Politics
+559685,Politics,politics,Will MrBeast win the 2028 Democratic presidential nomination?,-0.02399478380478976,0.005737779982515857,4,Politics
+559687,Politics,politics,Will Oprah Winfrey win the 2028 Democratic presidential nomination?,-0.023994835267498734,0.005738184189753218,4,Politics
+559688,Politics,politics,Will Andrew Yang win the 2028 Democratic presidential nomination?,-0.023994451618603165,0.005737796307935394,4,Politics
+559689,Politics,politics,Will Beto O’Rourke win the 2028 Democratic presidential nomination?,-0.02399457393492921,0.005737673279660865,4,Politics
+559690,Politics,politics,Will Kim Kardashian win the 2028 Democratic presidential nomination?,-0.023994568344135492,0.005737605976528743,4,Politics
+559692,Politics,politics,Will Jasmine Crockett win the 2028 Democratic presidential nomination?,-0.023994889203806328,0.005737777099933272,4,Politics
+560317,Geopolitics,geopolitics,"Putin out as President of Russia by December 31, 2026?",-0.02401341271258147,0.005751743529244409,3,Geopolitics
+561240,Politics,politics,Will Stephen Smith win the 2028 US Presidential Election?,-0.023995451340306447,0.00573822285618666,4,Politics
+561247,Politics,politics,Will Tim Walz win the 2028 US Presidential Election?,-0.023994568344135492,0.005737605976528743,4,Politics
+561248,Politics,politics,Will Vivek Ramaswamy win the 2028 US Presidential Election?,-0.023994568344135492,0.005737605976528743,4,Politics
+561249,Politics,politics,Will Greg Abbott win the 2028 US Presidential Election?,-0.023995214763405295,0.0057381280175855575,4,Politics
+561251,Politics,politics,Will LeBron James win the 2028 US Presidential Election?,-0.023995124268218343,0.005738077470873109,4,Politics
+561254,Politics,politics,Will Kim Kardashian win the 2028 US Presidential Election?,-0.023994568344135492,0.005737605976528743,4,Politics
+561986,Politics,politics,Will Byron Donalds win the 2028 Republican presidential nomination?,-0.02399472828172971,0.005737755096866786,4,Politics
+561993,Politics,politics,Will John Thune win the 2028 Republican presidential nomination?,-0.0239948923337837,0.005737518007422308,4,Politics
+561994,Politics,politics,Will Kristi Noem win the 2028 Republican presidential nomination?,-0.023994568344135492,0.005737605976528743,4,Politics
+561995,Politics,politics,Will Mike Pence win the 2028 Republican presidential nomination?,-0.023994730892435402,0.005737639559113012,4,Politics
+563650,Tech,tech,"SCOTUS accepts sports event contract case by July 31, 2026?     ",-0.02400080533486103,0.005753629113262783,7,Tech
+566146,Sports,sports,Will Atletico Madrid win the 2025–26 Champions League?,-0.02402225121983755,0.005760254785460317,6,Sports
+566170,Sports,sports,Will Club Brugge win the 2025–26 Champions League?,-0.023993275848682664,0.005736562106697238,6,Sports
+567621,Geopolitics,geopolitics,Will China invade Taiwan by end of 2026?,-0.024004414194030644,0.005748281047111607,3,Geopolitics
+567687,Geopolitics,geopolitics,Russia x Ukraine ceasefire by end of 2026?,-0.02404024779355646,0.005794574082646162,3,Geopolitics
+573655,Crypto,crypto,"Will Bitcoin hit $150k by June 30, 2026?",-0.023993643095662414,0.005744658317275366,1,Crypto
+609655,Business,business,US recession by end of 2026?,-0.024042551732012172,0.005782532892398916,0,Business
+610256,Geopolitics,geopolitics,"Will Russia invade a NATO country by June 30, 2026?",-0.024000575929879347,0.00574271682590709,3,Geopolitics
+616902,Business,business,Will no Fed rate cuts happen in 2026?,-0.02407086461912105,0.005796233591142961,0,Business
+616903,Business,business,Will 1 Fed rate cut happen in 2026?,-0.024052688746343705,0.005784078901329964,0,Business
+616904,Business,business,Will 2 Fed rate cuts happen in 2026?,-0.02403544852497443,0.005762394217032351,0,Business
+616905,Business,business,Will 3 Fed rate cuts happen in 2026?,-0.02400576166297928,0.005746837015336358,0,Business
+616906,Business,business,Will 4 Fed rate cuts happen in 2026?,-0.024005324543975203,0.005742225656905559,0,Business
+616907,Business,business,Will 5 Fed rate cuts happen in 2026?,-0.023994752887273596,0.0057389792697867936,0,Business
+616908,Business,business,Will 6 Fed rate cuts happen in 2026?,-0.023995731241178247,0.005737299092179916,0,Business
+616909,Business,business,Will 7 Fed rate cuts happen in 2026?,-0.023993437793546162,0.005737479712098664,0,Business
+616910,Business,business,Will 8 Fed rate cuts happen in 2026?,-0.023993517661270593,0.0057368075237648015,0,Business
+616911,Business,business,Will 9 Fed rate cuts happen in 2026?,-0.02399427588074949,0.005736612368526205,0,Business
+616912,Business,business,Will 10 Fed rate cuts happen in 2026?,-0.023994044049193013,0.0057367367602465845,0,Business
+616913,Business,business,Will 11 Fed rate cuts happen in 2026?,-0.023993839575026134,0.00573708905575207,0,Business
+616914,Business,business,Will 12 or more Fed rate cuts happen in 2026?,-0.02399492264221153,0.005737307414326222,0,Business
+618454,Crypto,crypto,Opensea FDV above $500M one day after launch?,-0.024124749647588626,0.005789461637083379,1,Crypto
+618455,Crypto,crypto,Opensea FDV above $1B one day after launch?,-0.0240768883842649,0.00577574213876031,1,Crypto
+631140,Tech,tech,Will Anthropic have the best AI model at the end of June 2026?,-0.024085250027417734,0.005851957156625458,7,Tech
+631144,Tech,tech,Will xAI have the best AI model at the end of June 2026?,-0.02399955322585644,0.00573963894637066,7,Tech
+631181,Business,business,Will NVIDIA be the largest company in the world by market cap on June 30?,-0.02417353229658005,0.005872291031663997,0,Business
+631182,Business,business,Will Microsoft be the largest company in the world by market cap on June 30?,-0.02399443534700511,0.005738374508773551,0,Business
+631183,Finance,finance,Will Apple be the largest company in the world by market cap on June 30?,-0.023998534531530835,0.0057477529317613895,2,Finance
+631184,Business,business,Will Alphabet be the largest company in the world by market cap on June 30?,-0.024014540288967018,0.0057547553756972,0,Business
+631185,Business,business,Will Tesla be the largest company in the world by market cap on June 30?,-0.023994348795576534,0.005737413909380273,0,Business
+631186,Business,business,Will Saudi Aramco be the largest company in the world by market cap on June 30?,-0.023994044978528892,0.005737342063565255,0,Business
+631187,Business,business,Will Amazon be the largest company in the world by market cap on June 30?,-0.023994048195283627,0.005737491613155992,0,Business
+637002,Geopolitics,geopolitics,Will Donald Trump win the Nobel Peace Prize in 2026?,-0.023999444719003022,0.005748054547762914,3,Geopolitics
+657287,Crypto,crypto,Will MetaMask launch a token by June 30?,-0.024005810948913804,0.00574567672995245,1,Crypto
+663583,Geopolitics,geopolitics,Will the Iranian regime fall before 2027?,-0.02404642296502109,0.00576267815280765,3,Geopolitics
+664895,Crypto,crypto,"Will MetaMask launch a token by September 30, 2026?",-0.024090017600459056,0.005785774798244938,1,Crypto
+665374,Geopolitics,geopolitics,Will the U.S. invade Iran before 2027?,-0.02406432903272268,0.005794657548289599,3,Geopolitics
+665531,Crypto,crypto,Metamask FDV above $700M one day after launch?,-0.024080531320103456,0.005776072602912164,1,Crypto
+666861,Geopolitics,geopolitics,Trump out as President before 2027?,-0.024027969744726034,0.005765193512085406,3,Geopolitics
+691340,Business,business,AI bubble burst in 2026?,-0.024006305301540458,0.005728871728581971,0,Business
+692258,Business,business,"MicroStrategy sells any Bitcoin by June 30, 2026?",-0.023995687017087618,0.005741930462580057,0,Business
+694936,Business,business,Will Nebius Group be acquired before 2027?,-0.024027075002823372,0.005759959577981063,0,Business
+694937,Business,business,Will BP be acquired before 2027?,-0.024031979514603865,0.00577120902777339,0,Business
+694938,Business,business,Will Viking Therapeutics be acquired before 2027?,-0.02409980825325868,0.005782120567297597,0,Business
+694939,Tech,tech,Will Ubisoft be acquired before 2027?,-0.024045134046970205,0.005791263434425995,7,Tech
+694940,Business,business,Will GitLab be acquired before 2027?,-0.02400056736843754,0.005768206925898199,0,Business
+694941,Tech,tech,Will Pizza Hut be acquired before 2027?,-0.02410620771774728,0.005802680428862289,7,Tech
+700395,Business,business,Will Lovable be acquired before 2027?,-0.024050567590245625,0.005765796238324027,0,Business
+700396,Business,business,Will Perplexity AI be acquired before 2027?,-0.024031778126124982,0.005791625682320045,0,Business
+700398,Tech,tech,Will OpenAI be acquired before 2027?,-0.024000788954938505,0.005748604351597726,7,Tech
+701486,Crypto,crypto,"Will Bitcoin reach $200,000 by December 31, 2026?",-0.023996113100623342,0.005744102150798147,1,Crypto
+701491,Crypto,crypto,"Will Bitcoin reach $150,000 by December 31, 2026?",-0.024000762705731173,0.005757132287231166,1,Crypto
+701493,Crypto,crypto,"Will Bitcoin reach $130,000 by December 31, 2026?",-0.024013130166756342,0.005759519169077745,1,Crypto
+701496,Crypto,crypto,"Will Bitcoin reach $100,000 by December 31, 2026?",-0.02406097335560294,0.005788219957974327,1,Crypto
+701501,Crypto,crypto,"Will Bitcoin dip to $55,000 by December 31, 2026?",-0.02407511299807233,0.005851574597975966,1,Crypto
+701502,Crypto,crypto,"Will Bitcoin dip to $45,000 by December 31, 2026?",-0.024044106356121017,0.005785842071629268,1,Crypto
+701503,Crypto,crypto,"Will Bitcoin dip to $35,000 by December 31, 2026?",-0.024042344244636117,0.00577078135763726,1,Crypto
+703257,Pop culture,pop-culture,Will the US confirm that aliens exist before 2027?,-0.024042931476760707,0.005772432830452456,5,Pop culture
+703258,Pop culture,pop-culture,Will Jesus Christ return before 2027?,-0.0240001040730308,0.005743064008097381,5,Pop culture
+821172,Crypto,crypto,"Will Base launch a token by June 30, 2026?",-0.02399330577038708,0.005743904088276326,1,Crypto
+842004,Pop culture,pop-culture,Will Albania win Eurovision 2026?,-0.023993952047667605,0.005737021273710892,5,Pop culture
+842006,Pop culture,pop-culture,Will Austria win Eurovision 2026?,-0.023993480486298714,0.0057379220765928895,5,Pop culture
+842007,Pop culture,pop-culture,Will Azerbaijan win Eurovision 2026?,-0.02399335908919034,0.005736982251287881,5,Pop culture
+842008,Pop culture,pop-culture,Will Belgium win Eurovision 2026?,-0.023993879183921932,0.005737234782177848,5,Pop culture
+842010,Pop culture,pop-culture,Will Croatia win Eurovision 2026?,-0.023995184877758962,0.005737313679203885,5,Pop culture
+842014,Pop culture,pop-culture,Will Estonia win Eurovision 2026?,-0.023993706628588064,0.005736910031203861,5,Pop culture
+842015,Pop culture,pop-culture,Will Finland win Eurovision 2026?,-0.024075905535261694,0.00579683164929392,5,Pop culture
+842016,Pop culture,pop-culture,Will France win Eurovision 2026?,-0.024014573160907902,0.005755149602946111,5,Pop culture
+842017,Pop culture,pop-culture,Will Georgia win Eurovision 2026?,-0.023993573227732767,0.005736526440911751,5,Pop culture
+842018,Pop culture,pop-culture,Will Germany win Eurovision 2026?,-0.023994137460715412,0.005737257988001251,5,Pop culture
+842021,Pop culture,pop-culture,Will Italy win Eurovision 2026?,-0.024003359223794467,0.005740103809035635,5,Pop culture
+842022,Pop culture,pop-culture,Will Latvia win Eurovision 2026?,-0.023993555245135627,0.005736964064035147,5,Pop culture
+842023,Pop culture,pop-culture,Will Lithuania win Eurovision 2026?,-0.023993642065082744,0.0057371209260493215,5,Pop culture
+842024,Pop culture,pop-culture,Will Luxembourg win Eurovision 2026?,-0.02399403325965974,0.0057369326159372475,5,Pop culture
+842025,Pop culture,pop-culture,Will Malta win Eurovision 2026?,-0.023993933668228235,0.005740666083065853,5,Pop culture
+842026,Pop culture,pop-culture,Will Moldova win Eurovision 2026?,-0.023994772897402542,0.005737811457207122,5,Pop culture
+842027,Pop culture,pop-culture,Will Montenegro win Eurovision 2026?,-0.02399355897751221,0.005736719781429249,5,Pop culture
+842028,Pop culture,pop-culture,Will Norway win Eurovision 2026?,-0.023994279885431007,0.005737383195185972,5,Pop culture
+842029,Pop culture,pop-culture,Will Poland win Eurovision 2026?,-0.02399358989856397,0.00573710033164206,5,Pop culture
+842030,Pop culture,pop-culture,Will Portugal win Eurovision 2026?,-0.023994040758816587,0.005736741871252169,5,Pop culture
+842032,Pop culture,pop-culture,Will San Marino win Eurovision 2026?,-0.023993195249841823,0.005736839786247353,5,Pop culture
+842033,Pop culture,pop-culture,Will Serbia win Eurovision 2026?,-0.02399380052512468,0.005737242522029142,5,Pop culture
+842035,Pop culture,pop-culture,Will Switzerland win Eurovision 2026?,-0.02399380052512468,0.005737242522029142,5,Pop culture
+842037,Pop culture,pop-culture,Will United Kingdom win Eurovision 2026?,-0.02399391157108507,0.005737101508014754,5,Pop culture
+842038,Pop culture,pop-culture,Will Armenia win Eurovision 2026?,-0.023994250610977784,0.005736922987039059,5,Pop culture
+842092,Tech,tech,Will SpaceX's market cap be greater than $1T at market close on IPO day?,-0.024190772350040735,0.005887346717346577,7,Tech
+842093,Tech,tech,"Will SpaceX not IPO by December 31, 2027?",-0.02400331322730919,0.005742820934405189,7,Tech
+929494,Tech,tech,Will SpaceX's public ticker be $SEX?,-0.02399579561173049,0.005734346727349468,7,Tech
+929496,Tech,tech,Will SpaceX's public ticker be $SPC?,-0.023994575102961102,0.005736725679467461,7,Tech
+929497,Tech,tech,Will SpaceX's public ticker be $STAR?,-0.023997930778001688,0.005738941999592047,7,Tech
+929498,Tech,tech,Will SpaceX's public ticker be $SPACE?,-0.023995780775604318,0.005739615579593595,7,Tech
+948956,Crypto,crypto,"Bitcoin all time high by June 30, 2026?",-0.024005220529536325,0.0057444054554747145,1,Crypto
+948958,Crypto,crypto,"Bitcoin all time high by December 31, 2026?",-0.02402273028689911,0.0057610144662749285,1,Crypto
+956590,Geopolitics,geopolitics,"Will China invade Taiwan by June 30, 2026?",-0.023996652883731307,0.005739500711116409,3,Geopolitics
+958443,Geopolitics,geopolitics,Will the Iranian regime fall by June 30?,-0.02400996818647559,0.005745316259413406,3,Geopolitics
+997488,Politics,politics,Will Trump acquire Greenland before 2027?,-0.024013125764151915,0.005758018433346512,4,Politics

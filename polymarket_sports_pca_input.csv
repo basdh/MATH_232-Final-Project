@@ -1,0 +1,205 @@
+timestamp,sport,game_title,outcome,price,market_id
+2026-05-03 19:18:04+00:00,MLB,Arizona Diamondbacks vs. Chicago Cubs,Arizona Diamondbacks,0.355,2096057
+2026-05-03 19:18:04+00:00,MLB,Arizona Diamondbacks vs. Chicago Cubs,Chicago Cubs,0.645,2096057
+2026-05-03 19:19:06+00:00,MLB,Atlanta Braves vs. Colorado Rockies,Atlanta Braves,0.525,2096059
+2026-05-03 19:19:06+00:00,MLB,Atlanta Braves vs. Colorado Rockies,Colorado Rockies,0.475,2096059
+2026-05-03 19:18:04+00:00,MLB,Baltimore Orioles vs. New York Yankees,Baltimore Orioles,0.355,2096039
+2026-05-03 19:18:04+00:00,MLB,Baltimore Orioles vs. New York Yankees,New York Yankees,0.645,2096039
+2026-05-03 19:19:06+00:00,MLB,Baltimore Orioles vs. New York Yankees,Baltimore Orioles,0.34,2105235
+2026-05-03 19:19:06+00:00,MLB,Baltimore Orioles vs. New York Yankees,New York Yankees,0.66,2105235
+2026-05-03 19:19:06+00:00,MLB,Boston Red Sox vs. Detroit Tigers,Boston Red Sox,0.37,2105228
+2026-05-03 19:19:06+00:00,MLB,Boston Red Sox vs. Detroit Tigers,Detroit Tigers,0.63,2105228
+2026-05-03 19:19:06+00:00,MLB,Chicago White Sox vs. San Diego Padres,Chicago White Sox,0.395,2096066
+2026-05-03 19:19:06+00:00,MLB,Chicago White Sox vs. San Diego Padres,San Diego Padres,0.605,2096066
+2026-05-03 19:19:06+00:00,MLB,Cincinnati Reds vs. Chicago Cubs,Chicago Cubs,0.64,2105237
+2026-05-03 19:19:06+00:00,MLB,Cincinnati Reds vs. Chicago Cubs,Cincinnati Reds,0.36,2105237
+2026-05-03 19:18:04+00:00,MLB,Cincinnati Reds vs. Pittsburgh Pirates,Cincinnati Reds,0.5,2096043
+2026-05-03 19:18:04+00:00,MLB,Cincinnati Reds vs. Pittsburgh Pirates,Pittsburgh Pirates,0.5,2096043
+2026-05-03 19:19:06+00:00,MLB,Cleveland Guardians vs. Athletics,Athletics,0.445,2096061
+2026-05-03 19:19:06+00:00,MLB,Cleveland Guardians vs. Athletics,Cleveland Guardians,0.555,2096061
+2026-05-03 19:18:04+00:00,MLB,Houston Astros vs. Boston Red Sox,Boston Red Sox,0.755,2096037
+2026-05-03 19:18:04+00:00,MLB,Houston Astros vs. Boston Red Sox,Houston Astros,0.245,2096037
+2026-05-03 19:19:06+00:00,MLB,Kansas City Royals vs. Seattle Mariners,Kansas City Royals,0.495,2096068
+2026-05-03 19:19:06+00:00,MLB,Kansas City Royals vs. Seattle Mariners,Seattle Mariners,0.505,2096068
+2026-05-03 19:19:06+00:00,MLB,Los Angeles Dodgers vs. St. Louis Cardinals,Los Angeles Dodgers,0.765,2096054
+2026-05-03 19:19:06+00:00,MLB,Los Angeles Dodgers vs. St. Louis Cardinals,St. Louis Cardinals,0.235,2096054
+2026-05-03 19:18:04+00:00,MLB,Milwaukee Brewers vs. Washington Nationals,Milwaukee Brewers,0.175,2096047
+2026-05-03 19:18:04+00:00,MLB,Milwaukee Brewers vs. Washington Nationals,Washington Nationals,0.825,2096047
+2026-05-03 19:19:06+00:00,MLB,New York Mets vs. Los Angeles Angels,Los Angeles Angels,0.455,2096064
+2026-05-03 19:19:06+00:00,MLB,New York Mets vs. Los Angeles Angels,New York Mets,0.545,2096064
+2026-05-03 19:18:04+00:00,MLB,Philadelphia Phillies vs. Miami Marlins,Miami Marlins,0.014,2096049
+2026-05-03 19:18:05+00:00,MLB,Philadelphia Phillies vs. Miami Marlins,Philadelphia Phillies,0.986,2096049
+2026-05-03 19:19:06+00:00,MLB,Philadelphia Phillies vs. Miami Marlins,Miami Marlins,0.485,2105230
+2026-05-03 19:19:06+00:00,MLB,Philadelphia Phillies vs. Miami Marlins,Philadelphia Phillies,0.515,2105230
+2026-05-03 19:18:04+00:00,MLB,San Francisco Giants vs. Tampa Bay Rays,San Francisco Giants,0.725,2096052
+2026-05-03 19:18:04+00:00,MLB,San Francisco Giants vs. Tampa Bay Rays,Tampa Bay Rays,0.275,2096052
+2026-05-03 19:19:06+00:00,MLB,Texas Rangers vs. Detroit Tigers,Detroit Tigers,0.543,2096070
+2026-05-03 19:19:06+00:00,MLB,Texas Rangers vs. Detroit Tigers,Texas Rangers,0.457,2096070
+2026-05-03 19:18:04+00:00,MLB,Toronto Blue Jays vs. Minnesota Twins,Minnesota Twins,0.9445,2096035
+2026-05-03 19:18:04+00:00,MLB,Toronto Blue Jays vs. Minnesota Twins,Toronto Blue Jays,0.0555,2096035
+2026-05-03 19:19:06+00:00,MLB,Toronto Blue Jays vs. Tampa Bay Rays,Tampa Bay Rays,0.58,2105232
+2026-05-03 19:19:06+00:00,MLB,Toronto Blue Jays vs. Tampa Bay Rays,Toronto Blue Jays,0.42,2105232
+2026-05-03 19:18:04+00:00,NBA,76ers vs. Knicks,76ers,0.285,2144490
+2026-05-03 19:18:04+00:00,NBA,76ers vs. Knicks,Knicks,0.715,2144490
+2026-05-03 19:18:04+00:00,NBA,76ers vs. Knicks,76ers,0.355,2144498
+2026-05-03 19:18:05+00:00,NBA,76ers vs. Knicks,Knicks,0.645,2144498
+2026-05-03 19:18:04+00:00,NBA,Knicks vs. 76ers,76ers,0.39,2144505
+2026-05-03 19:18:05+00:00,NBA,Knicks vs. 76ers,Knicks,0.61,2144505
+2026-05-03 19:18:05+00:00,NBA,Lakers vs. Thunder,Lakers,0.115,2139307
+2026-05-03 19:18:04+00:00,NBA,Lakers vs. Thunder,Thunder,0.885,2139307
+2026-05-03 19:18:05+00:00,NBA,Lakers vs. Thunder,Lakers,0.17,2139310
+2026-05-03 19:18:04+00:00,NBA,Lakers vs. Thunder,Thunder,0.83,2139310
+2026-05-03 19:18:04+00:00,NBA,Magic vs. Pistons,Magic,0.265,2091302
+2026-05-03 19:18:04+00:00,NBA,Magic vs. Pistons,Pistons,0.735,2091302
+2026-05-03 19:18:04+00:00,NBA,Raptors vs. Cavaliers,Cavaliers,0.735,2091252
+2026-05-03 19:18:04+00:00,NBA,Raptors vs. Cavaliers,Raptors,0.265,2091252
+2026-05-03 19:18:04+00:00,NBA,Spurs vs. Timberwolves,Spurs,0.74,2137011
+2026-05-03 19:18:04+00:00,NBA,Spurs vs. Timberwolves,Timberwolves,0.26,2137011
+2026-05-03 19:18:05+00:00,NBA,Thunder vs. Lakers,Lakers,0.245,2144514
+2026-05-03 19:18:05+00:00,NBA,Thunder vs. Lakers,Thunder,0.755,2144514
+2026-05-03 19:18:04+00:00,NBA,Timberwolves vs. Spurs,Spurs,0.855,2131708
+2026-05-03 19:18:04+00:00,NBA,Timberwolves vs. Spurs,Timberwolves,0.145,2131708
+2026-05-03 19:18:04+00:00,NBA,Timberwolves vs. Spurs,Spurs,0.825,2131710
+2026-05-03 19:18:04+00:00,NBA,Timberwolves vs. Spurs,Timberwolves,0.175,2131710
+2026-05-03 19:19:06+00:00,NHL,Avalanche vs. Wild,Avalanche,0.5,2148564
+2026-05-03 19:19:06+00:00,NHL,Avalanche vs. Wild,Wild,0.5,2148564
+2026-05-03 19:18:05+00:00,NHL,Canadiens vs. Lightning,Canadiens,0.395,2140682
+2026-05-03 19:18:04+00:00,NHL,Canadiens vs. Lightning,Lightning,0.605,2140682
+2026-05-03 19:19:06+00:00,NHL,Ducks vs. Golden Knights,Ducks,0.395,2148535
+2026-05-03 19:19:06+00:00,NHL,Ducks vs. Golden Knights,Golden Knights,0.605,2148535
+2026-05-03 19:19:06+00:00,NHL,Ducks vs. Golden Knights,Ducks,0.405,2148541
+2026-05-03 19:19:06+00:00,NHL,Ducks vs. Golden Knights,Golden Knights,0.595,2148541
+2026-05-03 19:19:06+00:00,NHL,Flyers vs. Hurricanes,Flyers,0.305,2148529
+2026-05-03 19:19:06+00:00,NHL,Flyers vs. Hurricanes,Hurricanes,0.695,2148529
+2026-05-03 19:19:06+00:00,NHL,Golden Knights vs. Ducks,Ducks,0.49,2148552
+2026-05-03 19:19:06+00:00,NHL,Golden Knights vs. Ducks,Golden Knights,0.51,2148552
+2026-05-03 19:19:06+00:00,NHL,Golden Knights vs. Ducks,Ducks,0.5,2148572
+2026-05-03 19:19:06+00:00,NHL,Golden Knights vs. Ducks,Golden Knights,0.5,2148572
+2026-05-03 19:19:06+00:00,NHL,Hurricanes vs. Flyers,Flyers,0.5,2148546
+2026-05-03 19:19:06+00:00,NHL,Hurricanes vs. Flyers,Hurricanes,0.5,2148546
+2026-05-03 19:19:06+00:00,NHL,Hurricanes vs. Flyers,Flyers,0.495,2148559
+2026-05-03 19:19:06+00:00,NHL,Hurricanes vs. Flyers,Hurricanes,0.51,2148559
+2026-05-03 19:19:06+00:00,NHL,Wild vs. Avalanche,Avalanche,0.645,2140693
+2026-05-03 19:19:06+00:00,NHL,Wild vs. Avalanche,Wild,0.355,2140693
+2026-05-03 19:19:06+00:00,NHL,Wild vs. Avalanche,Avalanche,0.645,2140709
+2026-05-03 19:19:06+00:00,NHL,Wild vs. Avalanche,Wild,0.355,2140709
+2026-05-03 19:19:06+00:00,Soccer,Aston Villa FC vs. Tottenham Hotspur FC,No,0.9655,2029380
+2026-05-03 19:19:06+00:00,Soccer,Aston Villa FC vs. Tottenham Hotspur FC,Yes,0.032,2029380
+2026-05-03 19:19:06+00:00,Soccer,Aston Villa FC vs. Tottenham Hotspur FC,No,0.925,2029383
+2026-05-03 19:19:06+00:00,Soccer,Aston Villa FC vs. Tottenham Hotspur FC,Yes,0.075,2029383
+2026-05-03 19:19:06+00:00,Soccer,Aston Villa FC vs. Tottenham Hotspur FC,No,0.095,2029387
+2026-05-03 19:19:06+00:00,Soccer,Aston Villa FC vs. Tottenham Hotspur FC,Yes,0.905,2029387
+2026-05-03 19:19:06+00:00,Soccer,Brighton & Hove Albion FC vs. Wolverhampton Wanderers FC,No,0.245,2082156
+2026-05-03 19:19:06+00:00,Soccer,Brighton & Hove Albion FC vs. Wolverhampton Wanderers FC,Yes,0.755,2082156
+2026-05-03 19:19:06+00:00,Soccer,Brighton & Hove Albion FC vs. Wolverhampton Wanderers FC,No,0.845,2082160
+2026-05-03 19:19:06+00:00,Soccer,Brighton & Hove Albion FC vs. Wolverhampton Wanderers FC,Yes,0.155,2082160
+2026-05-03 19:19:06+00:00,Soccer,Brighton & Hove Albion FC vs. Wolverhampton Wanderers FC,No,0.9,2082162
+2026-05-03 19:19:06+00:00,Soccer,Brighton & Hove Albion FC vs. Wolverhampton Wanderers FC,Yes,0.1,2082162
+2026-05-03 19:19:06+00:00,Soccer,Burnley FC vs. Aston Villa FC,No,0.83,2091265
+2026-05-03 19:19:06+00:00,Soccer,Burnley FC vs. Aston Villa FC,Yes,0.17,2091265
+2026-05-03 19:19:06+00:00,Soccer,Burnley FC vs. Aston Villa FC,No,0.775,2091270
+2026-05-03 19:19:06+00:00,Soccer,Burnley FC vs. Aston Villa FC,Yes,0.225,2091270
+2026-05-03 19:19:06+00:00,Soccer,Burnley FC vs. Aston Villa FC,No,0.395,2091275
+2026-05-03 19:19:06+00:00,Soccer,Burnley FC vs. Aston Villa FC,Yes,0.605,2091275
+2026-05-03 19:19:06+00:00,Soccer,Chelsea FC vs. Nottingham Forest FC,No,0.425,2040017
+2026-05-03 19:19:06+00:00,Soccer,Chelsea FC vs. Nottingham Forest FC,Yes,0.575,2040017
+2026-05-03 19:19:06+00:00,Soccer,Chelsea FC vs. Nottingham Forest FC,No,0.765,2040027
+2026-05-03 19:19:06+00:00,Soccer,Chelsea FC vs. Nottingham Forest FC,Yes,0.235,2040027
+2026-05-03 19:19:06+00:00,Soccer,Chelsea FC vs. Nottingham Forest FC,No,0.805,2040037
+2026-05-03 19:19:06+00:00,Soccer,Chelsea FC vs. Nottingham Forest FC,Yes,0.195,2040037
+2026-05-03 19:19:06+00:00,Soccer,Crystal Palace FC vs. Everton FC,No,0.655,2091284
+2026-05-03 19:19:06+00:00,Soccer,Crystal Palace FC vs. Everton FC,Yes,0.345,2091284
+2026-05-03 19:19:06+00:00,Soccer,Crystal Palace FC vs. Everton FC,No,0.705,2091286
+2026-05-03 19:19:06+00:00,Soccer,Crystal Palace FC vs. Everton FC,Yes,0.295,2091286
+2026-05-03 19:19:06+00:00,Soccer,Crystal Palace FC vs. Everton FC,No,0.635,2091288
+2026-05-03 19:19:06+00:00,Soccer,Crystal Palace FC vs. Everton FC,Yes,0.365,2091288
+2026-05-03 19:19:06+00:00,Soccer,Elche CF vs. Deportivo Alavés,No,0.58,2083572
+2026-05-03 19:19:06+00:00,Soccer,Elche CF vs. Deportivo Alavés,Yes,0.42,2083572
+2026-05-03 19:19:06+00:00,Soccer,Elche CF vs. Deportivo Alavés,No,0.705,2083574
+2026-05-03 19:19:06+00:00,Soccer,Elche CF vs. Deportivo Alavés,Yes,0.295,2083574
+2026-05-03 19:19:06+00:00,Soccer,Elche CF vs. Deportivo Alavés,No,0.715,2083576
+2026-05-03 19:19:06+00:00,Soccer,Elche CF vs. Deportivo Alavés,Yes,0.285,2083576
+2026-05-03 19:19:06+00:00,Soccer,Everton FC vs. Manchester City FC,No,0.855,2040058
+2026-05-03 19:19:06+00:00,Soccer,Everton FC vs. Manchester City FC,Yes,0.145,2040058
+2026-05-03 19:19:06+00:00,Soccer,Everton FC vs. Manchester City FC,No,0.805,2040061
+2026-05-03 19:19:06+00:00,Soccer,Everton FC vs. Manchester City FC,Yes,0.195,2040061
+2026-05-03 19:19:06+00:00,Soccer,Everton FC vs. Manchester City FC,No,0.345,2040064
+2026-05-03 19:19:06+00:00,Soccer,Everton FC vs. Manchester City FC,Yes,0.655,2040064
+2026-05-03 19:19:06+00:00,Soccer,Fulham FC vs. AFC Bournemouth,No,0.635,2082127
+2026-05-03 19:19:06+00:00,Soccer,Fulham FC vs. AFC Bournemouth,Yes,0.365,2082127
+2026-05-03 19:19:06+00:00,Soccer,Fulham FC vs. AFC Bournemouth,No,0.74,2082130
+2026-05-03 19:19:06+00:00,Soccer,Fulham FC vs. AFC Bournemouth,Yes,0.26,2082130
+2026-05-03 19:19:06+00:00,Soccer,Fulham FC vs. AFC Bournemouth,No,0.605,2082134
+2026-05-03 19:19:06+00:00,Soccer,Fulham FC vs. AFC Bournemouth,Yes,0.395,2082134
+2026-05-03 19:19:06+00:00,Soccer,Levante UD vs. CA Osasuna,No,0.635,2075279
+2026-05-03 19:19:06+00:00,Soccer,Levante UD vs. CA Osasuna,Yes,0.365,2075279
+2026-05-03 19:19:06+00:00,Soccer,Levante UD vs. CA Osasuna,No,0.695,2075281
+2026-05-03 19:19:06+00:00,Soccer,Levante UD vs. CA Osasuna,Yes,0.305,2075281
+2026-05-03 19:19:06+00:00,Soccer,Levante UD vs. CA Osasuna,No,0.655,2075283
+2026-05-03 19:19:06+00:00,Soccer,Levante UD vs. CA Osasuna,Yes,0.345,2075283
+2026-05-03 19:19:06+00:00,Soccer,Liverpool FC vs. Chelsea FC,No,0.495,2082097
+2026-05-03 19:19:06+00:00,Soccer,Liverpool FC vs. Chelsea FC,Yes,0.505,2082097
+2026-05-03 19:19:06+00:00,Soccer,Liverpool FC vs. Chelsea FC,No,0.755,2082104
+2026-05-03 19:19:06+00:00,Soccer,Liverpool FC vs. Chelsea FC,Yes,0.245,2082104
+2026-05-03 19:19:06+00:00,Soccer,Liverpool FC vs. Chelsea FC,No,0.75,2082109
+2026-05-03 19:19:06+00:00,Soccer,Liverpool FC vs. Chelsea FC,Yes,0.25,2082109
+2026-05-03 19:19:06+00:00,Soccer,Manchester City FC vs. Brentford FC,No,0.265,2082169
+2026-05-03 19:19:06+00:00,Soccer,Manchester City FC vs. Brentford FC,Yes,0.735,2082169
+2026-05-03 19:19:06+00:00,Soccer,Manchester City FC vs. Brentford FC,No,0.845,2082174
+2026-05-03 19:19:06+00:00,Soccer,Manchester City FC vs. Brentford FC,Yes,0.155,2082174
+2026-05-03 19:19:06+00:00,Soccer,Manchester City FC vs. Brentford FC,No,0.885,2082178
+2026-05-03 19:19:06+00:00,Soccer,Manchester City FC vs. Brentford FC,Yes,0.115,2082178
+2026-05-03 19:18:04+00:00,Soccer,Manchester City FC vs. Crystal Palace FC,No,0.28,1530214
+2026-05-03 19:18:05+00:00,Soccer,Manchester City FC vs. Crystal Palace FC,Yes,0.72,1530214
+2026-05-03 19:18:04+00:00,Soccer,Manchester City FC vs. Crystal Palace FC,No,0.8305,1530219
+2026-05-03 19:18:04+00:00,Soccer,Manchester City FC vs. Crystal Palace FC,Yes,0.1695,1530219
+2026-05-03 19:18:04+00:00,Soccer,Manchester City FC vs. Crystal Palace FC,No,0.8975,1530224
+2026-05-03 19:18:04+00:00,Soccer,Manchester City FC vs. Crystal Palace FC,Yes,0.1025,1530224
+2026-05-03 19:19:06+00:00,Soccer,Nottingham Forest FC vs. Newcastle United FC,No,0.615,2091230
+2026-05-03 19:19:06+00:00,Soccer,Nottingham Forest FC vs. Newcastle United FC,Yes,0.385,2091230
+2026-05-03 19:19:06+00:00,Soccer,Nottingham Forest FC vs. Newcastle United FC,No,0.725,2091234
+2026-05-03 19:19:06+00:00,Soccer,Nottingham Forest FC vs. Newcastle United FC,Yes,0.275,2091234
+2026-05-03 19:19:06+00:00,Soccer,Nottingham Forest FC vs. Newcastle United FC,No,0.66,2091239
+2026-05-03 19:19:06+00:00,Soccer,Nottingham Forest FC vs. Newcastle United FC,Yes,0.34,2091239
+2026-05-03 19:19:06+00:00,Soccer,RCD Espanyol de Barcelona vs. Real Madrid CF,No,0.785,2030771
+2026-05-03 19:19:06+00:00,Soccer,RCD Espanyol de Barcelona vs. Real Madrid CF,Yes,0.215,2030771
+2026-05-03 19:19:06+00:00,Soccer,RCD Espanyol de Barcelona vs. Real Madrid CF,No,0.735,2030773
+2026-05-03 19:19:06+00:00,Soccer,RCD Espanyol de Barcelona vs. Real Madrid CF,Yes,0.265,2030773
+2026-05-03 19:19:06+00:00,Soccer,RCD Espanyol de Barcelona vs. Real Madrid CF,No,0.465,2030774
+2026-05-03 19:19:06+00:00,Soccer,RCD Espanyol de Barcelona vs. Real Madrid CF,Yes,0.535,2030774
+2026-05-03 19:19:06+00:00,Soccer,Real Betis Balompié vs. Real Oviedo,No,0.0005,2030758
+2026-05-03 19:19:06+00:00,Soccer,Real Betis Balompié vs. Real Oviedo,Yes,0.9995,2030758
+2026-05-03 19:19:06+00:00,Soccer,Real Betis Balompié vs. Real Oviedo,No,0.9995,2030761
+2026-05-03 19:19:06+00:00,Soccer,Real Betis Balompié vs. Real Oviedo,Yes,0.0005,2030761
+2026-05-03 19:19:06+00:00,Soccer,Real Betis Balompié vs. Real Oviedo,No,0.9995,2030764
+2026-05-03 19:19:06+00:00,Soccer,Real Betis Balompié vs. Real Oviedo,Yes,0.0005,2030764
+2026-05-03 19:19:06+00:00,Soccer,Sevilla FC vs. RCD Espanyol de Barcelona,No,0.535,2083579
+2026-05-03 19:19:06+00:00,Soccer,Sevilla FC vs. RCD Espanyol de Barcelona,Yes,0.465,2083579
+2026-05-03 19:19:06+00:00,Soccer,Sevilla FC vs. RCD Espanyol de Barcelona,No,0.725,2083580
+2026-05-03 19:19:06+00:00,Soccer,Sevilla FC vs. RCD Espanyol de Barcelona,Yes,0.275,2083580
+2026-05-03 19:19:06+00:00,Soccer,Sevilla FC vs. RCD Espanyol de Barcelona,No,0.735,2083583
+2026-05-03 19:19:06+00:00,Soccer,Sevilla FC vs. RCD Espanyol de Barcelona,Yes,0.265,2083583
+2026-05-03 19:19:06+00:00,Soccer,Sevilla FC vs. Real Sociedad de Fútbol,No,0.605,2041096
+2026-05-03 19:19:06+00:00,Soccer,Sevilla FC vs. Real Sociedad de Fútbol,Yes,0.395,2041096
+2026-05-03 19:19:06+00:00,Soccer,Sevilla FC vs. Real Sociedad de Fútbol,No,0.725,2041097
+2026-05-03 19:19:06+00:00,Soccer,Sevilla FC vs. Real Sociedad de Fútbol,Yes,0.275,2041097
+2026-05-03 19:19:06+00:00,Soccer,Sevilla FC vs. Real Sociedad de Fútbol,No,0.665,2041098
+2026-05-03 19:19:06+00:00,Soccer,Sevilla FC vs. Real Sociedad de Fútbol,Yes,0.335,2041098
+2026-05-03 19:19:06+00:00,Soccer,Sunderland AFC vs. Manchester United FC,No,0.765,2082140
+2026-05-03 19:19:06+00:00,Soccer,Sunderland AFC vs. Manchester United FC,Yes,0.235,2082140
+2026-05-03 19:19:06+00:00,Soccer,Sunderland AFC vs. Manchester United FC,No,0.755,2082143
+2026-05-03 19:19:06+00:00,Soccer,Sunderland AFC vs. Manchester United FC,Yes,0.245,2082143
+2026-05-03 19:19:06+00:00,Soccer,Sunderland AFC vs. Manchester United FC,No,0.475,2082146
+2026-05-03 19:19:06+00:00,Soccer,Sunderland AFC vs. Manchester United FC,Yes,0.525,2082146
+2026-05-03 19:19:06+00:00,Soccer,Tottenham Hotspur FC vs. Leeds United FC,No,0.46,2101830
+2026-05-03 19:19:06+00:00,Soccer,Tottenham Hotspur FC vs. Leeds United FC,Yes,0.54,2101830
+2026-05-03 19:19:06+00:00,Soccer,Tottenham Hotspur FC vs. Leeds United FC,No,0.765,2101844
+2026-05-03 19:19:06+00:00,Soccer,Tottenham Hotspur FC vs. Leeds United FC,Yes,0.235,2101844
+2026-05-03 19:19:06+00:00,Soccer,Tottenham Hotspur FC vs. Leeds United FC,No,0.76,2101855
+2026-05-03 19:19:06+00:00,Soccer,Tottenham Hotspur FC vs. Leeds United FC,Yes,0.24,2101855
+2026-05-03 19:19:06+00:00,Soccer,West Ham United FC vs. Arsenal FC,No,0.825,2091296
+2026-05-03 19:19:06+00:00,Soccer,West Ham United FC vs. Arsenal FC,Yes,0.175,2091296
+2026-05-03 19:19:06+00:00,Soccer,West Ham United FC vs. Arsenal FC,No,0.775,2091300
+2026-05-03 19:19:06+00:00,Soccer,West Ham United FC vs. Arsenal FC,Yes,0.225,2091300
+2026-05-03 19:19:06+00:00,Soccer,West Ham United FC vs. Arsenal FC,No,0.385,2091304
+2026-05-03 19:19:06+00:00,Soccer,West Ham United FC vs. Arsenal FC,Yes,0.615,2091304
